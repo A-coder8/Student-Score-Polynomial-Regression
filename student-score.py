@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 # read Data
-df = pd.read_csv("~/myproject/Model/student_score/student_score_prediction_1000.csv")
+df = pd.read_csv("student_score_prediction_1000.csv")
 df = df.fillna(None)
 
 # set x and y
