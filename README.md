@@ -39,7 +39,6 @@ The dataset contains **1000 synthetic student records**.
 
 Columns:
 
-```text
 id
 age
 study_hours
@@ -51,3 +50,7 @@ extracurricular
 parent_education
 internet_access
 final_score
+
+## Results for Different Degrees
+
+
