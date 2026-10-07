@@ -1,7 +1,4 @@
 
-### `README.fa.md`
-
-```markdown
 # پیش‌بینی نمره دانش‌آموز با یادگیری ماشین 🎓🤖
 
 [🇬🇧 English](README.md)
