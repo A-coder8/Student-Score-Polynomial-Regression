@@ -53,4 +53,11 @@ final_score
 
 ## Results for Different Degrees
 
-
+- with degree 1
+- R2Score =  0.5847473050789392
+-----------------------------------------------
+- with degree 2
+- R2Score =  0.7474677115016702
+-----------------------------------------------
+- with degree 3
+- R2Score =  0.7113879479591073
